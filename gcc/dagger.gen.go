@@ -4,9 +4,9 @@ package main
 
 import (
 	"context"
-	"dagger/ci/internal/dagger"
 	"encoding/json"
 	"fmt"
+	"gcc/internal/dagger"
 	"os"
 )
 

@@ -17,7 +17,7 @@ import (
 	"github.com/Khan/genqlient/graphql"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 
-	"dagger/ci/internal/querybuilder"
+	"gcc/internal/querybuilder"
 )
 
 // assertNotNil panic if the given value is nil.
